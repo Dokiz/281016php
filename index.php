@@ -8,3 +8,4 @@ call_user_func('Foo::say_hello');
 $object = new Foo();
 call_user_func(array($myobject, 'say_hello'));
 ?>
+Разработка простейшего почтового клиента.
